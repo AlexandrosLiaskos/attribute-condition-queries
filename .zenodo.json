@@ -1,0 +1,14 @@
+{
+  "title": "Attribute Condition Queries without Code Evaluation",
+  "upload_type": "software",
+  "description": "<p>A TypeScript library for query builders of web maps and data catalogues: conditions on the fields of records (text, numbers, dates, yes/no) joined with AND and OR, evaluated as data without eval, read back as a sentence with brackets in English or Greek, checked with messages for the person, and carried in a URL.</p>",
+  "creators": [
+    {
+      "name": "Liaskos, Alexandros",
+      "affiliation": "National and Kapodistrian University of Athens",
+      "orcid": "0009-0003-0568-945X"
+    }
+  ],
+  "license": "AGPL-3.0-only",
+  "keywords": ["query builder", "web mapping", "data catalogues", "filtering", "security"]
+}
