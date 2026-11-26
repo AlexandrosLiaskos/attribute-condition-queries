@@ -14,6 +14,8 @@ authors:
 license: AGPL-3.0-only
 repository-code: "https://github.com/AlexandrosLiaskos/attribute-condition-queries"
 version: 0.1.0
+doi: 10.5281/zenodo.24555941
+date-released: 2026-11-26
 keywords:
   - query builder
   - web mapping

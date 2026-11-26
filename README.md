@@ -1,5 +1,9 @@
 # Attribute Condition Queries without Code Evaluation
 
+[![Checks](https://github.com/AlexandrosLiaskos/attribute-condition-queries/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexandrosLiaskos/attribute-condition-queries/actions/workflows/ci.yml)
+[![npm](https://img.shields.io/npm/v/attribute-condition-queries.svg)](https://www.npmjs.com/package/attribute-condition-queries)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24555941.svg)](https://doi.org/10.5281/zenodo.24555941)
+
 A query builder lets visitors of a web map or a data catalogue narrow its records: "Country equals Greece, OR
 Country equals Cyprus, AND Depth is at least 3". This library holds everything behind such a builder:
 
@@ -99,8 +103,12 @@ Version 0.1.0 adds date fields, Greek words and addresses to it, and fixes four 
 
 ## Citation
 
-The citation of the software is given in [CITATION.cff](CITATION.cff). Each release is archived on Zenodo with its own
-DOI.
+Liaskos, A. (2026). _Attribute Condition Queries without Code Evaluation_ (Version 0.1.0) [Computer software].
+Zenodo. https://doi.org/10.5281/zenodo.24555941
+
+To cite every version at once, use the concept DOI [10.5281/zenodo.24555940](https://doi.org/10.5281/zenodo.24555940),
+which always resolves to the latest release. The citation is also given in [CITATION.cff](CITATION.cff), which GitHub
+offers under "Cite this repository". Each release is archived on Zenodo with its own DOI.
 
 ## Licence
 
